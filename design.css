@@ -1,7 +1,9 @@
 body{
+  align:center;
   background-color:#C689C6;
   background-repeat: no-repeat;
   background-size: cover;
+  
   /*/background-image: url("https://images8.alphacoders.com/434/434711.jpg");
   /*/
 }
